@@ -1,13 +1,13 @@
 # Expense-Reimbursement-System
 
-Employee
+# Employee
 An employee can login to see their own reimbursements, past and pending
 
 An employee can submit a reimbursement with an amount and a reason
 
 Bonus allow for file upload
 
-Manager
+# Manager
 A Manager can view all reimbursements past and pending
 
 A Manager can appove or deny any reimbursement
@@ -16,7 +16,7 @@ Managers can view a 'statistics' page.
 
 That includes information like what employee spends the most money, mean expenditure cost etc...
 
-Key Notes
+# Key Notes
 You do not have to allow for the creation of employees or managers.
 
 You can have these already in the database.
@@ -27,7 +27,7 @@ API routes do not need to be protected
 
 Passwords do not have to be encrpted
 
-Technical and testing requirements
+# Technical and testing requirements
 Backend developed in Javalin
 
 Backend should be a RESTful web service
